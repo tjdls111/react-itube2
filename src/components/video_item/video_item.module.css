@@ -1,0 +1,31 @@
+.video{
+  
+  cursor:pointer;
+  transition: transform 250ms ease-in;
+  width:30rem;
+  margin:1rem 0 0 2.5rem;
+}
+
+.video:hover{
+  transform: scale(1.02);
+
+}
+
+.video_meta{
+  background-color: RGB(33, 36, 41);
+  color:whitesmoke;
+}
+
+.channel_name{
+  color: gainsboro;
+}
+
+.list{
+  /* width: auto; */
+
+}
+
+.grid{
+
+}
+
